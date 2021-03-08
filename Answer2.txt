@@ -1,0 +1,2 @@
+The Square is:63.6173
+The Perimeter is:31.8086
