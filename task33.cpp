@@ -36,7 +36,7 @@ int main()
 
 void Filewrite(float y){
     std::ofstream inFile;
-    inFile.open("Answer33");
+    inFile.open("Answer33.txt");
     inFile << "y=" << y << std::endl;
     inFile.close();
 }
